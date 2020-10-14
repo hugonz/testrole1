@@ -1,0 +1,8 @@
+---
+# tasks file for testrole1
+#
+#
+- name: just print something
+  debug:
+    msg: "Printing something as you expected"
+
